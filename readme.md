@@ -1,4 +1,7 @@
 # Michael Jackson Ghasts
+
+![](pack.png)
+
 A texture pack for Minecraft that makes ghasts look and sound like Michael Jackson! Compatable with every version of Minecraft, able to be used over existing texture packs.
 
 ### How to install?
